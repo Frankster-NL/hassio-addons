@@ -1,4 +1,4 @@
-# svk's Add-ons repository
+# Frank's addons based on svk's repository
 
 ## Installing
 
