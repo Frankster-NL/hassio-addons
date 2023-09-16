@@ -10,7 +10,7 @@ arch:
   - aarch64
 startup: application
 boot: auto
-ingress: true
+ingress: false
 tmpfs: true
 init: false
 full_access: false
