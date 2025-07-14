@@ -1,5 +1,5 @@
 {
-    "name": "Frankster NL's Hass.io Add-ons",
-    "url": "https://github.com/Frankster-NL/hassio-addons/",
-    "maintainer": "FranksterNL"
-  }
+  "name": "Frank's Home Assistant Addons",
+  "url": "https://github.com/yourusername/hassio-addons",
+  "maintainer": "Frank Versteegen <your-email@example.com>"
+}
