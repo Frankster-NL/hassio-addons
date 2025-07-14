@@ -1,0 +1,13 @@
+{
+  "name": "Dawarich",
+  "version": "1.0",
+  "slug": "dawarich",
+  "description": "Deploys the Dawarich stack using Docker Compose",
+  "startup": "application",
+  "boot": "auto",
+  "arch": [ "aarch64", "amd64", "armv7" ],
+  "privileged": [ "docker" ],
+  "host_network": true,
+  "options": {},
+  "schema": {}
+}
